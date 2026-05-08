@@ -8,7 +8,7 @@ side by side. Cmd-Tab between them like any other app.
 
 ## What this repo is
 
-This is the public-facing repo for Multi-Claude — release downloads, issue
+This is the public-facing repo for Multi-Claude: release downloads, issue
 tracker, changelog. The product source lives in a private repository.
 
 ## Download
@@ -17,7 +17,7 @@ Latest builds are published as
 [GitHub Releases](https://github.com/blparker/multi-claude/releases). Apple
 Silicon Macs only (arm64), macOS 12+.
 
-The first launch shows a Gatekeeper warning while we're in beta — right-click
+The first launch shows a Gatekeeper warning while we're in beta. Right-click
 the app and choose **Open** to allow it. See
 [multiclaude.app/install](https://multiclaude.app/install) for the full steps.
 

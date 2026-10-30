@@ -1,7 +1,7 @@
 # Multi-Claude
 
 Run multiple Claude Desktop accounts on one Mac. Each account becomes its own
-Mac app with its own dock icon, login, and chat history. Open work and personal
+Mac app with its own dock icon, login, and settings. Open work and personal
 side by side. Cmd-Tab between them like any other app.
 
 → **[multiclaude.app](https://multiclaude.app)** for the purchase + install flow.
@@ -25,7 +25,7 @@ the app and choose **Open** to allow it. See
 
 Found a bug or want to suggest something? Open an
 [Issue](https://github.com/blparker/multi-claude/issues). Include your macOS
-version, Multi-Claude version (Settings → About), and what you were doing when
+version, Multi-Claude version (bottom left of the Multi-Claude window), and what you were doing when
 it happened.
 
 For licensing or refund questions, email

@@ -14,12 +14,11 @@ tracker, changelog. The product source lives in a private repository.
 ## Download
 
 Latest builds are published as
-[GitHub Releases](https://github.com/blparker/multi-claude/releases). Apple
-Silicon Macs only (arm64), macOS 12+.
+[GitHub Releases](https://github.com/blparker/multi-claude/releases). Runs on
+Apple Silicon and Intel Macs, macOS 12 or later.
 
-The first launch shows a Gatekeeper warning while we're in beta. Right-click
-the app and choose **Open** to allow it. See
-[multiclaude.app/install](https://multiclaude.app/install) for the full steps.
+Multi-Claude is signed and notarized by Apple. See
+[multiclaude.app/install](https://multiclaude.app/install) for the steps.
 
 ## Reporting issues
 
